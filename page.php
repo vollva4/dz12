@@ -4,13 +4,6 @@
 <head>
     <title></title>
     <style>
-        form{
-            margin-bottom: 50px;
-        }
-        input {
-            display: block;
-            margin-bottom: 10px;
-        }
         thead {
             text-align: center;
             font-weight: bold;
@@ -22,6 +15,7 @@
     </style>
 </head>
 <body>
+    <h1>Библиотека успешного человека</h1>
     <table>
         <thead>
             <td>Книга</td>
